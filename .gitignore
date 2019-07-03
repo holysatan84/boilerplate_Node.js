@@ -1,1 +1,5 @@
 node_modules
+.idea/
+.metadata/
+.project
+package-lock.json
